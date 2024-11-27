@@ -1,2 +1,2 @@
 # PythonCalc
- This is my retro calculator
+ This is my Python calculator
